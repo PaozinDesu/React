@@ -60,8 +60,3 @@ export const Banner = () => {
         </section>
     )
 }
-
-
-// awdljahwdgawdjhgawkjdhgfawd
-// awdkhagwdkjahgwdawd
-// ajhdfgawkduygawd
